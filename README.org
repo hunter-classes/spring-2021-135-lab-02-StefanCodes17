@@ -1,10 +1,10 @@
 * Spring 2021 - Lab 02
 
-* Last name:
+* Last name: Kolev
 
-* First name:
+* First name: Stefan
 
-* GitHub username:
+* GitHub username: StefanCodes17
 
 * Notes:
 
